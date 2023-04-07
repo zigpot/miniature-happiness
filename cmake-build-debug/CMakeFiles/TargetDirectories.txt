@@ -1,0 +1,3 @@
+/home/fariz/CLionProjects/fourier/cmake-build-debug/CMakeFiles/fourier.dir
+/home/fariz/CLionProjects/fourier/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fariz/CLionProjects/fourier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
